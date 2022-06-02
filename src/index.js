@@ -4,7 +4,11 @@ import ReactDom from "react-dom"
 // React 18
 import * as ReactDOMClient from 'react-dom/client';
 
+<<<<<<< HEAD
 const element = <h1>Hello world!</h1>
+=======
+const element = <h1>Hello world / React 18!</h1>
+>>>>>>> features/hello-world
 console.log (element)
 
 const container = document.getElementById("root")
